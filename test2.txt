@@ -1,2 +1,7 @@
 second file 
+<<<<<<< Updated upstream
 hellow hdfjhsdjhgdfj
+=======
+
+123test
+>>>>>>> Stashed changes
