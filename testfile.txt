@@ -1,5 +1,0 @@
-hllow git
-
-chaining in remote
-
-adding more data from local
